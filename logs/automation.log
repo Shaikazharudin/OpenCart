@@ -1,0 +1,21 @@
+12:21:21.857 [TestNG-tests-1] INFO  testCasses.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest*****
+12:21:22.313 [TestNG-tests-1] INFO  testCasses.TC001_AccountRegistrationTest -****Clicked on MyAccount****
+12:21:22.772 [TestNG-tests-1] INFO  testCasses.TC001_AccountRegistrationTest -*****Clicked on Register*****
+12:21:22.776 [TestNG-tests-1] INFO  testCasses.TC001_AccountRegistrationTest -****providing customer details*****
+12:21:24.463 [TestNG-tests-1] INFO  testCasses.TC001_AccountRegistrationTest -****Validating expected masseage*****
+12:21:24.526 [TestNG-tests-1] ERROR testCasses.TC001_AccountRegistrationTest -Test Failed..
+12:21:24.531 [TestNG-tests-1] INFO  testCasses.TC001_AccountRegistrationTest -*****Finishing TC001_AccountRegistrationTest*****
+12:21:24.601 [TestNG-tests-2] INFO  testCasses.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest*****
+12:21:24.782 [TestNG-tests-2] INFO  testCasses.TC001_AccountRegistrationTest -****Clicked on MyAccount****
+12:21:25.347 [TestNG-tests-2] INFO  testCasses.TC001_AccountRegistrationTest -*****Clicked on Register*****
+12:21:25.355 [TestNG-tests-2] INFO  testCasses.TC001_AccountRegistrationTest -****providing customer details*****
+12:21:26.700 [TestNG-tests-3] INFO  testCasses.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest*****
+12:21:27.008 [TestNG-tests-3] INFO  testCasses.TC001_AccountRegistrationTest -****Clicked on MyAccount****
+12:21:27.646 [TestNG-tests-3] INFO  testCasses.TC001_AccountRegistrationTest -*****Clicked on Register*****
+12:21:27.646 [TestNG-tests-3] INFO  testCasses.TC001_AccountRegistrationTest -****providing customer details*****
+12:21:27.850 [TestNG-tests-2] INFO  testCasses.TC001_AccountRegistrationTest -****Validating expected masseage*****
+12:21:27.918 [TestNG-tests-2] ERROR testCasses.TC001_AccountRegistrationTest -Test Failed..
+12:21:27.922 [TestNG-tests-2] INFO  testCasses.TC001_AccountRegistrationTest -*****Finishing TC001_AccountRegistrationTest*****
+12:21:28.984 [TestNG-tests-3] INFO  testCasses.TC001_AccountRegistrationTest -****Validating expected masseage*****
+12:21:29.014 [TestNG-tests-3] ERROR testCasses.TC001_AccountRegistrationTest -Test Failed..
+12:21:29.014 [TestNG-tests-3] INFO  testCasses.TC001_AccountRegistrationTest -*****Finishing TC001_AccountRegistrationTest*****

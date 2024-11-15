@@ -1,0 +1,53 @@
+11:50:32.260 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@61d34b4: 0 ms
+11:50:32.276 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.internal.ExitCodeListener@52cb4f50: 0 ms
+12:00:48.074 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\shaik\eclipse-workspace\openCart\master.xml"
+12:00:48.289 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\openCart\master.xml
+
+12:00:50.911 [main] INFO  testCasses.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest*****
+12:00:51.109 [main] INFO  testCasses.TC001_AccountRegistrationTest -****Clicked on MyAccount****
+12:00:51.417 [main] INFO  testCasses.TC001_AccountRegistrationTest -*****Clicked on Register*****
+12:00:51.419 [main] INFO  testCasses.TC001_AccountRegistrationTest -****providing customer details*****
+12:00:52.460 [main] INFO  testCasses.TC001_AccountRegistrationTest -****Validating expected masseage*****
+12:00:52.490 [main] ERROR testCasses.TC001_AccountRegistrationTest -Test Failed..
+12:00:52.490 [main] DEBUG testCasses.TC001_AccountRegistrationTest -Debug logs...
+12:00:52.491 [main] INFO  testCasses.TC001_AccountRegistrationTest -*****Finishing TC001_AccountRegistrationTest*****
+12:01:09.985 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\shaik\eclipse-workspace\openCart\crossbrowsertesting\testng.xml"
+12:09:02.162 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\shaik\eclipse-workspace\openCart\crossbrowsing.xml"
+12:09:02.472 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\openCart\crossbrowsing.xml
+
+12:09:05.851 [main] INFO  testCasses.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest*****
+12:09:06.224 [main] INFO  testCasses.TC001_AccountRegistrationTest -****Clicked on MyAccount****
+12:09:06.574 [main] INFO  testCasses.TC001_AccountRegistrationTest -*****Clicked on Register*****
+12:09:06.576 [main] INFO  testCasses.TC001_AccountRegistrationTest -****providing customer details*****
+12:09:07.646 [main] INFO  testCasses.TC001_AccountRegistrationTest -****Validating expected masseage*****
+12:09:07.683 [main] ERROR testCasses.TC001_AccountRegistrationTest -Test Failed..
+12:09:07.684 [main] DEBUG testCasses.TC001_AccountRegistrationTest -Debug logs...
+12:09:07.686 [main] INFO  testCasses.TC001_AccountRegistrationTest -*****Finishing TC001_AccountRegistrationTest*****
+12:09:10.376 [main] INFO  testCasses.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest*****
+12:09:10.473 [main] INFO  testCasses.TC001_AccountRegistrationTest -****Clicked on MyAccount****
+12:09:10.898 [main] INFO  testCasses.TC001_AccountRegistrationTest -*****Clicked on Register*****
+12:09:10.900 [main] INFO  testCasses.TC001_AccountRegistrationTest -****providing customer details*****
+12:09:12.250 [main] INFO  testCasses.TC001_AccountRegistrationTest -****Validating expected masseage*****
+12:09:12.295 [main] ERROR testCasses.TC001_AccountRegistrationTest -Test Failed..
+12:09:12.295 [main] DEBUG testCasses.TC001_AccountRegistrationTest -Debug logs...
+12:09:12.295 [main] INFO  testCasses.TC001_AccountRegistrationTest -*****Finishing TC001_AccountRegistrationTest*****
+12:09:20.470 [main] INFO  testCasses.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest*****
+12:09:20.791 [main] INFO  testCasses.TC001_AccountRegistrationTest -****Clicked on MyAccount****
+12:09:21.292 [main] INFO  testCasses.TC001_AccountRegistrationTest -*****Clicked on Register*****
+12:09:21.292 [main] INFO  testCasses.TC001_AccountRegistrationTest -****providing customer details*****
+12:09:22.484 [main] INFO  testCasses.TC001_AccountRegistrationTest -****Validating expected masseage*****
+12:09:22.510 [main] ERROR testCasses.TC001_AccountRegistrationTest -Test Failed..
+12:09:22.510 [main] DEBUG testCasses.TC001_AccountRegistrationTest -Debug logs...
+12:09:22.511 [main] INFO  testCasses.TC001_AccountRegistrationTest -*****Finishing TC001_AccountRegistrationTest*****
+12:12:34.489 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\shaik\eclipse-workspace\openCart\crossbrowsing.xml"
+12:12:34.771 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\shaik\eclipse-workspace\openCart\crossbrowsing.xml
+
+12:12:38.083 [TestNG-tests-2] INFO  testCasses.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest*****
+12:12:38.398 [TestNG-tests-2] INFO  testCasses.TC001_AccountRegistrationTest -****Clicked on MyAccount****
+12:12:38.549 [TestNG-tests-1] INFO  testCasses.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest*****
+12:12:38.893 [TestNG-tests-2] INFO  testCasses.TC001_AccountRegistrationTest -*****Clicked on Register*****
+12:12:38.896 [TestNG-tests-2] INFO  testCasses.TC001_AccountRegistrationTest -****providing customer details*****
+12:12:39.043 [TestNG-tests-1] INFO  testCasses.TC001_AccountRegistrationTest -****Clicked on MyAccount****
